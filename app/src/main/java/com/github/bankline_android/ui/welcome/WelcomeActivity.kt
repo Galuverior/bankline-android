@@ -28,3 +28,6 @@ class WelcomeActivity : AppCompatActivity() {
         }
     }
 }
+
+//TODO Melhoria (fácil): validar o preenchimento do ID do Correntista, exibindo um Snackbar em caso de erro.
+//TODO Melhoria (difícil): evoluir a API para recuperar um Correntista por ID, permitindo assim o envio de mais informações para a próxima tela.
